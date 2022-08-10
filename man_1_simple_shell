@@ -1,5 +1,5 @@
 .\" Manpage for shell
-.\" Contact 378@codingschool.com to correct errors or typos.
+.\" Contact imwakaba@gmail.com to correct errors or typos.
 .TH man 8 "27 August 2018" "1.0" "simple_shell man page"
 .SH NAME
 shell \- a limited simple_shell
@@ -90,6 +90,6 @@ builtin - chsh - echo - execve - pwd - getline - strtok - strdup - str_nconcat.
 The Thompson shell, appeared in Version 1 AT&T Unix. It was superseeded in Version 7
 AT&T Unix by the Bourne Shell.
 .P.BAuthors.B
-Our version of shell was written by Damon Nyhan and Heindrick Cheung
+Our version of shell was written by Ibrahim Mwakaba and Joshua Tulasi.
 .P.BBugs.B
 Too many to count. Good luck.

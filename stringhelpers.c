@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _strcmp - function with two arguments
+ * _strcmp - function with two arguments.
  * @s1: first string argument
  * @s2: second string argument
  *
